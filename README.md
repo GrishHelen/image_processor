@@ -4,8 +4,15 @@ This is a console application to edit photos with various filters.
 
 ### Available filters:
 
-![filters](filters.jpg)
+![filters](filters.png)
 
 ### Usage
 
-![usage](usage.jpg)
+![usage](usage.png)
+
+
+
+
+
+
+
